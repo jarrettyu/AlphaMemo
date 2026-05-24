@@ -1,0 +1,11 @@
+{
+  "strategy": "sspm",
+  "budget": 100,
+  "batch_size": 5,
+  "seed": 0,
+  "market_seed": 123,
+  "success_ic": 0.025,
+  "success_icir": 0.05,
+  "warmup": 30
+}
+
